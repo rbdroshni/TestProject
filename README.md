@@ -1,10 +1,23 @@
+# Getting Started
+
+ # Clone project
+Cone this proect from `https://github.com/rbdroshni/TestProject.git`
+
+# Procedure 
+Goto Folder
+`cd TestProject`
+
+# Install dependencies
+
+Make sure you have the Angular CLI installed globally. We use NPM to manage the dependencies, so we strongly recommend you to use it. you can install it from Here, then run `npm install` to resolve all dependencies (might take a minute).
+
 # TestProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
